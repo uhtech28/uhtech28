@@ -1,6 +1,6 @@
 # Utkarsh Verma
 
-Founder of RETILFY & UH Tech
+Founder of RETLIFY & UH Tech
 
 Full-Stack Developer building SaaS platforms, CRM systems and business automation software.
 
