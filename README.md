@@ -5,7 +5,7 @@ Founder of RETLIFY & UH Tech
 Full-Stack Developer building SaaS platforms, CRM systems and business automation software.
 
 ## 🚀 Startups
-RETILFY – Digital commerce platform  
+RETLIFY – Digital commerce platform  
 UH Tech – SaaS & business automation systems
 
 ## 💻 Tech Stack
